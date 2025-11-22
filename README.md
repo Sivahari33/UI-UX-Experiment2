@@ -20,7 +20,7 @@ Brainstorm symbols: Leaf, nest, tree, sprout.
 
 Sketch at least 2 rough layouts combining these shapes and the brand name “GreenNest.”
 
-## Step 3: Digital Design
+## Step 3: Digital Design 
 
 Open a vector graphic tool (Figma, Illustrator, Canva, etc.).
 
