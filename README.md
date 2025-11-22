@@ -1,20 +1,58 @@
 # UI-UX-Experiment2
 
 ## Aim:
-To Design a Basic Mobile and Web Layout for an Existing Case Study
+To design a minimalist logo for the eco-friendly brand “GreenNest” that visually communicates sustainability, nature, and environmental awareness using simple shapes and a green color palette.
 
 ## Algorithm:
-```
-1.Apply Gestalt Principles to Layouts 
-2.Add UI Elements and Design Patterns 
-3.Define Interaction & Usability Behaviors 
-4.Design and Integrate a Brand Logo.
-```
+Algorithm for Designing GreenNest Eco-Brand Logo
 
+## Step 1: Preparation & Concept
+
+Define brand values: Eco-friendly, sustainable, natural.
+
+Choose style: Minimalist with leaf/nature motifs.
+
+Select colors: Green tones (freshness, environment).
+
+## Step 2: Idea Generation
+
+Brainstorm symbols: Leaf, nest, tree, sprout.
+
+Sketch at least 2 rough layouts combining these shapes and the brand name “GreenNest.”
+
+## Step 3: Digital Design
+
+Open a vector graphic tool (Figma, Illustrator, Canva, etc.).
+
+Set canvas size (suggest square format).
+
+Draw leaf or nest elements using basic shapes (ovals, curves, lines).
+
+## Step 4: Brand Name Integration
+
+Add “GreenNest” using a clean, sans-serif font.
+
+Arrange text either below or beside the icon for balance.
+
+## Step 5: Color Application
+
+Use various green shades for the icon.
+
+Keep text in a contrasting color (dark green or black) to ensure readability.
+
+## Step 6: Balance & Minimalism
+
+Remove unnecessary details to maintain a simple look.
+
+Check spacing and alignment for visual harmony.
+
+## Step 7: Export & Testing
+
+Export logo as PNG and SVG for high quality and scalability.
+
+Test how logo appears on light and dark backgrounds.
 ## Output:
-
-
-[Mobile.Web.Layout.Design.for.Case.Study.pdf](https://github.com/user-attachments/files/23603017/Mobile.Web.Layout.Design.for.Case.Study.pdf)
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/13611d3b-6877-4dad-a627-244fc86668bc" />
 
 ## Result:
-The Basic Mobile and Web layout is completed and verified.
+A clean, minimalist logo representing eco-friendliness and sustainability, featuring a leaf or nest and the name “GreenNest.”
